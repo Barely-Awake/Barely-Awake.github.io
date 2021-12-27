@@ -21,6 +21,30 @@ var state = {
     {
         url: "media/songs/Glass Animals - Heat Waves ft. Iann Dior.mp3",
         title: "Glass Animals - Heat Waves ft. Iann Dior"
+    },
+    {
+        url: "media/songs/Charles Infamous - ON FIRE.mp3",
+        title: "Charles Infamous - ON FIRE"
+    },
+    {
+        url: "media/songs/Jake Hill - Stay.mp3",
+        title: "Jake Hill - Stay"
+    },
+    {
+        url: "media/songs/Scorey - Love Letter.mp3",
+        title: "Scorey - Love Letter"
+    },
+    {
+        url: "media/songs/Surfaces - Sail Away.mp3",
+        title: "Surfaces - Sail Away"
+    },
+    {
+        url: "media/songs/Trevor Daniel - 911.mp3",
+        title: "Trevor Daniel - 911"
+    },
+    {
+        url: "media/songs/Verzache - Needs.mp3",
+        title: "Verzache - Needs"
     }]
 };
 
