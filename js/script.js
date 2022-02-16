@@ -55,7 +55,6 @@ function animationLoop() {
         setTimeout(() => {
             requestAnimationFrame(loop);
         }, 30);
-        console.log((state.video.currentTime / state.video.duration * 100))
         var progress = (state.video.currentTime / state.video.duration * 100);
         document.querySelector('.progressCircle').style.strokeDashoffset = (47.61 * 2 * 3.14) * (1 - progress / 100);
     };
